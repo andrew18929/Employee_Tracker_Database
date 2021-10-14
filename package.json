@@ -1,0 +1,19 @@
+{
+  "name": "employee_tracker_database",
+  "version": "1.0.0",
+  "description": "App to track employees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew18929/Employee_Tracker_Database.git"
+  },
+  "author": "Andrew Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrew18929/Employee_Tracker_Database/issues"
+  },
+  "homepage": "https://github.com/andrew18929/Employee_Tracker_Database#readme"
+}
