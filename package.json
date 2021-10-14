@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/andrew18929/Employee_Tracker_Database/issues"
   },
-  "homepage": "https://github.com/andrew18929/Employee_Tracker_Database#readme"
+  "homepage": "https://github.com/andrew18929/Employee_Tracker_Database#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.0"
+  }
 }
