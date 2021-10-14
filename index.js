@@ -41,8 +41,8 @@ function choices() {
         WHEN I choose to view all departments
         THEN I am presented with a formatted table showing department names and department ids
         */
-        if (choice === '') {
-            ./queries.functionName()
+        if (choice === 'View all departments') {
+            app.viewAllEmployees()
             .then(function() {
                 console.log('/n');
                 choices();
